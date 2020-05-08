@@ -1,4 +1,12 @@
-# Informations sur la cible
+# ninvaders-buildroot-RP3
+
+Projet crée dans le cadre de ma formation en cyberdéfense, module "Linux Embarqué".
+L'idée est de créer un système ne contenant que le strict minimum pour faire tourner un applicatif donné, ici nInvaders, pour limiter les surfaces d'attaques possibles.
+
+Les détails se trouvent dans le rapport fourni dans le repo.
+
+
+## Informations sur la cible
 
 ___
 
